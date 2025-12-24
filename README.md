@@ -19,4 +19,3 @@ Restart your server
 [Buy the full version of the script](https://boosty.to/periferiy/posts/756740a3-badd-47cf-8f40-9fc16cc2ff03?share=post_link)
 
 | Requirements & dependencies | ESX,Qbox,QBcore |
-| Support                     | Yes |
