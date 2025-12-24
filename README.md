@@ -16,8 +16,7 @@ Move the folder into your FiveM server’s "resources" directory:
 Add the resource to your server.cfg file: ensure xenon-neon-demo
 Restart your server
 
-Buy the full version of the script:
-https://boosty.to/periferiy/posts/756740a3-badd-47cf-8f40-9fc16cc2ff03?share=post_link
+[Buy the full version of the script](https://boosty.to/periferiy/posts/756740a3-badd-47cf-8f40-9fc16cc2ff03?share=post_link)
 
 | Requirements & dependencies | ESX,Qbox,QBcore |
 | Support                     | Yes |
